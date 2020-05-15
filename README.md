@@ -7,6 +7,11 @@ Binary built by `native-image`:
 - sub procs: 16
 - runtime cost: VIRT 1227M, RES 36M, SHR 20M
 
+Uber-jar:
+- file size: 208K
+- sub procs: 34
+- runtime cost: VIRT 7226M, RES 315M, SHR 52M
+
 ---
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
